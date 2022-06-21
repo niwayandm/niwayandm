@@ -25,7 +25,7 @@
 
 I am a freshgraduate on Informatics Engineering :shipit: from Indonesia.
 
-- 💻: I’m working as a Data Analyst Intern and contributing to frontend and backend for building web applications.
+- 💻: I’m working as a Data Analyst Intern and contributing to dashboards and reports.
 
 - 🎮 I play games and watch movies in my freetime.
 
