@@ -30,3 +30,7 @@ I am a freshgraduate :shipit: of Informatics Engineering from Indonesia.
 - 🎮 I play games and watch movies in my freetime.
 
 - 💻 Likes to explore Data Science or Programming opportunities. 
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niwayandm&hide=javascript,css,scss,html&theme=tokyonight)
