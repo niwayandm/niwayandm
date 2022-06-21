@@ -16,7 +16,7 @@
 </div>
 
 <h3>
-  Hi, I'm Ni Wayan Devina
+  Hi, I'm Ni Wayan Devina 👋
 </h3>
   
 ---
