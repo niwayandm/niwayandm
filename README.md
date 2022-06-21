@@ -33,4 +33,4 @@ I am a freshgraduate :shipit: of Informatics Engineering from Indonesia.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niwayandm&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niwayandm)
