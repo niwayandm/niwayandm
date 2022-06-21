@@ -17,8 +17,15 @@
 
 <h3>
   Hi, I'm Ni Wayan Devina
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
   
+---
 
+### :woman_technologist: About Me :
+
+I am a freshgraduate on Informatics Engineering :shipit: from Indonesia.
+
+- 💻: I’m working as a Data Analyst Intern and contributing to frontend and backend for building web applications.
+
+- 🎮 I play games and watch movies in my freetime.
 
