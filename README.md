@@ -29,7 +29,7 @@ I am a freshgraduate :shipit: of Informatics Engineering from Indonesia.
 
 - 🎮 I play games and watch movies in my freetime.
 
-- 💻 Likes to explore Data Science or Programming opportunities. 
+- 💻 I'd like to explore Data Science or Programming opportunities. 
 
 ---
 
