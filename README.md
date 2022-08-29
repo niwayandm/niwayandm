@@ -25,7 +25,7 @@
 
 I am a freshgraduate :shipit: of Informatics Engineering from Indonesia.
 
-- 📊 I’m working as a Data Analyst Intern and my job is make dashboards and reports to extract insights from raw data.
+- 📊 I’m working as a Web Application Specialist (more like Data Engineer tho) and my job is make dashboards and reports to extract insights from raw data.
 
 - 🎮 I play games and watch movies in my freetime.
 
