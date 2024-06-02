@@ -23,7 +23,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a freshgraduate :shipit: of Informatics Engineering from Indonesia.
+I am a Web App Developer from Indonesia :shipit:.
 
 - 📊 I’m working as a Web Application Specialist (more like Data Engineer tho) and my job is to make SQL Queries and Python Codes for automation.
 
