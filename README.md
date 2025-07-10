@@ -23,7 +23,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a female Web App Developer from Indonesia :shipit:.
+I am a female Automation Engineer and Web App Developer from Indonesia :shipit:.
 
 - 📊 I’m working as a Full Stack Developer and my job is to make Python Codes for automation, make websites for dashboards and report, as well as connecting manufacturing devices to applications.
 
